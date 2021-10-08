@@ -1,0 +1,17 @@
+C:\Users\ruedi\Documents\Code\UniversalServer\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ruedi\Documents\Code\UniversalServer\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ruedi\Documents\Code\UniversalServer\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ruedi\Documents\Code\UniversalServer\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ruedi\Documents\Code\UniversalServer\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ruedi\Documents\Code\UniversalServer\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\ruedi\Documents\Code\UniversalServer\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Bx\OneDrive\Code\UniversalServer\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Bx\OneDrive\Code\UniversalServer\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Bx\OneDrive\Code\UniversalServer\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
