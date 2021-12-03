@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{A13A7DF5-934B-4A1E-BB11-9C5DCB7C5313}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UniversalServer/Model/DBAccess.cs">
+    <Files>
+      <File FileName="UniversalServer/Model/DBAccess.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UniversalServer" expanded="True">
+            <Node name="UniversalClient" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="UniversalServer" expanded="True">
+              <Node name="Model" expanded="True">
+                <Node name="DBAccess.cs" selected="True" />
+              </Node>
+              <Node name="MainWindow.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
