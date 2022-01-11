@@ -7,11 +7,13 @@
         FontSize="16"
         Height="300"
         Width="600" >
+
     <i:Interaction.Triggers>
         <i:EventTrigger EventName="Loaded">
             <i:InvokeCommandAction Command="{Binding WindowLoaded}" />
         </i:EventTrigger>
     </i:Interaction.Triggers>
+
     <Viewbox>
         <StackPanel>
             <Grid ShowGridLines="True">
@@ -91,6 +93,8 @@
             </Grid>
             <Label Content="Status: " Background="AliceBlue" Grid.Row="6" Grid.Column="0"/>
             <Label Content="{Binding Status}" Background="AliceBlue"/>
+
+            <!--UI_GRID-->
         </StackPanel>
     </Viewbox>
 </Window>

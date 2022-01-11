@@ -1,0 +1,27 @@
+﻿<Window x:Class="UniversalServer.Options"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UniversalServer"
+        mc:Ignorable="d"
+        Title="Options" Height="450" Width="800">
+    <Grid>
+        <Button x:Name = "btn_save_setting" Content="Save Settings" HorizontalAlignment="Left" Margin="10,371,0,0" VerticalAlignment="Top" Width="772" RenderTransformOrigin="0.032,0.712" Height="38" Click="Btn_save_setting_Click"/>
+        <Button x:Name = "btn_save_mode" Content="Mode: Idle" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="195" RenderTransformOrigin="0.032,0.712" Height="38" Click="Btn_save_mode_Click"/>
+        <Button Name="btn_increase_runtime" Content="Increase" HorizontalAlignment="Left" Margin="282,42,0,0" VerticalAlignment="Top" Width="75" Click="Btn_increase_runtime_Click"/>
+        <Label x:Name ="lbl_run_value" Content="10" HorizontalAlignment="Left" Margin="283,62,0,0" VerticalAlignment="Top" Width="73" RenderTransformOrigin="0.5,0.5" Height="26">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.372"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.244"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Button x:Name="btn_decreade_runtime" Content="Decrease" HorizontalAlignment="Left" Margin="282,88,0,0" VerticalAlignment="Top" Width="75" Click="Btn_decreade_runtime_Click"/>
+        <Label Content="Save Runs:" HorizontalAlignment="Left" Margin="210,62,0,0" VerticalAlignment="Top" Width="67"/>
+
+    </Grid>
+</Window>

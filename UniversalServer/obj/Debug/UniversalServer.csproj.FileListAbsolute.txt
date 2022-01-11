@@ -190,3 +190,26 @@ C:\Users\marko.dragovic\Documents\UniversalServer\UniversalServer\obj\Debug\Univ
 C:\Users\marko.dragovic\Documents\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.CopyComplete
 C:\Users\marko.dragovic\Documents\UniversalServer\UniversalServer\obj\Debug\UniversalServer.exe
 C:\Users\marko.dragovic\Documents\UniversalServer\UniversalServer\obj\Debug\UniversalServer.pdb
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\bin\Debug\template.html
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\bin\Debug\UniversalServer.exe.config
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\bin\Debug\UniversalServer.exe
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\bin\Debug\UniversalServer.pdb
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\bin\Debug\Mono.Security.dll
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\bin\Debug\Npgsql.dll
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\bin\Debug\Npgsql.xml
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\obj\Debug\UniversalServer.csprojAssemblyReference.cache
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\obj\Debug\MainWindow.baml
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\obj\Debug\MainWindow.g.cs
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\obj\Debug\App.g.cs
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\obj\Debug\UniversalServer_Content.g.cs
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\obj\Debug\UniversalServer_MarkupCompile.cache
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\obj\Debug\UniversalServer.g.resources
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\obj\Debug\UniversalServer.Properties.Resources.resources
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\obj\Debug\UniversalServer.csproj.GenerateResource.cache
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\obj\Debug\UniversalServer.csproj.CoreCompileInputs.cache
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\obj\Debug\UniversalServer.csproj.CopyComplete
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\obj\Debug\UniversalServer.exe
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\obj\Debug\UniversalServer.pdb
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\obj\Debug\UniversalServer_MarkupCompile.lref
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\obj\Debug\Options.g.cs
+C:\Users\ac136672\Documents\Projektarbeit Smarthome\E1FI5-N-N-Smarthomeprojekt\UniversalServer\obj\Debug\Options.baml

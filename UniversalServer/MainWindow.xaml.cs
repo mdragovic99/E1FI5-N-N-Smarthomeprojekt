@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using UniversalServer.ViewModels;
+using UniversalServer.Model;
 
 namespace UniversalServer
 {
@@ -21,15 +22,12 @@ namespace UniversalServer
     /// </summary>
     public partial class MainWindow : Window
     {
+
         public MainWindow()
         {
             InitializeComponent();
             this.DataContext = new MainViewModel();
         }
 
-        private void Button_MouseEnter(object sender, MouseEventArgs e)
-        {
-
-        }
     }
 }

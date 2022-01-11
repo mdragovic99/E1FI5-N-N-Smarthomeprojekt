@@ -92,10 +92,14 @@
     <Compile Include="Model\IServerContract.cs" />
     <Compile Include="Model\PressureValue.cs" />
     <Compile Include="Model\Server.cs" />
+    <Compile Include="Model\ServerController.cs" />
     <Compile Include="Model\ServerMockUp.cs" />
     <Compile Include="Model\Station.cs" />
     <Compile Include="Model\TempValues.cs" />
     <Compile Include="Model\ValuesBase.cs" />
+    <Compile Include="Options.xaml.cs">
+      <DependentUpon>Options.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ViewModelBase\RelayCommand.cs" />
     <Compile Include="ViewModelBase\ViewModel.cs" />
     <Compile Include="ViewModels\MainViewModel.cs" />
@@ -112,6 +116,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Options.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">

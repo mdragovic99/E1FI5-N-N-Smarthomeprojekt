@@ -15,14 +15,12 @@ namespace UniversalServer.ViewModels
 {
     class MainViewModel : ViewModel
     {
-        
         DBAccess _dba = new DBAccess();
-
         
         private ICommand _windowLoadedCommand;
         private IServerContract _serv;
         private string _status;
-       
+
         TempValue _tempMaxVal;
         TempValue _tempCurrentVal;
         TempValue _tempMinVal;
@@ -159,11 +157,7 @@ namespace UniversalServer.ViewModels
             _serv.StatusPropertyChanged += Serv_StatusPropertyChanged;
             _serv.MessageReceived += _serv_MessageReceived;
             _serv.Start();
-
-
-
-            _dba.Database();
-
+            _dba.Database_Connect();
 
             OnPropertyChanged("MessageReceived");
         }
@@ -286,6 +280,7 @@ namespace UniversalServer.ViewModels
 
             }
         }
+
 
     }
 }
